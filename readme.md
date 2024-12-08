@@ -65,9 +65,9 @@ validaciones y verificaciones adecuadas para asegurar
 que los resultados sean correctos.
 
 Ejecutar el Proyecto
-Clona este repositorio: git clone https://github.com/Aubar48/Argando-aChallengeQaAutomatizacion 
-cd proyecto-qa-automation
-Instala las dependencias: npm install
-Abre Cypress: npx cypress open
-Selecciona el archivo myTestSaucedemo.cy.js y ejecuta las pruebas.
-También puedes ejecutar las pruebas en modo headless: npx cypress run
+● Clona este repositorio: git clone https://github.com/Aubar48/Argando-aChallengeQaAutomatizacion
+● cd proyecto-qa-automation
+● Instala las dependencias: npm install
+● Abre Cypress: npx cypress open
+● Selecciona el archivo myTestSaucedemo.cy.js y ejecuta las pruebas.
+● También puedes ejecutar las pruebas en modo headless: npx cypress run
