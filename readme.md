@@ -1,4 +1,4 @@
-<figure><img src="/cypress.png" alt="logo" style="height: 300px;"></figure>
+<figure><img src="/cypress.png" alt="logo" style="height: 200px;"></figure>
 
 # **Trabajo Final: QA Automation con Cypress**
 
