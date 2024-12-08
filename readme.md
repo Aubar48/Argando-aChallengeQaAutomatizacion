@@ -65,7 +65,7 @@ validaciones y verificaciones adecuadas para asegurar
 que los resultados sean correctos.
 
 Ejecutar el Proyecto
-Clona este repositorio: git clone https://github.com/usuario/proyecto-qa-automation.git 
+Clona este repositorio: git clone https://github.com/Aubar48/Argando-aChallengeQaAutomatizacion 
 cd proyecto-qa-automation
 Instala las dependencias: npm install
 Abre Cypress: npx cypress open
