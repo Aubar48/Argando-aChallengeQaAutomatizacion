@@ -3,8 +3,16 @@
 # **Trabajo Final: QA Automation con Cypress**
 
 ## **Descripción del Proyecto**
-Este proyecto automatiza pruebas para el sitio [SauceDemo](https://www.saucedemo.com), simulando el flujo de compra con diferentes usuarios. Se incluye un [Plan de Pruebas](https://docs.google.com/spreadsheets/d/1AHUPmJbamMjzV35YunvaABstV7SwRdkg/edit?usp=sharing&ouid=100517623038913693993&rtpof=true&sd=true), la implementación automatizada en Cypress y el registro de defectos en [Trello](https://trello.com/invite/b/67545f1337b952292f0bb8e3/ATTI24b8807d070ccb58962a561141e86e2e0646633B/swag-labs-qa-automatizacion-challenge),
-y este es el reporte de errores [Reporte de bugs](https://docs.google.com/document/d/1FOE358r_KKAoL6Mpg7squfy1zz5_yDVMIa36XfueKCM/edit?usp=sharing).
+Este proyecto automatiza pruebas para el sitio [SauceDemo](https://www.saucedemo.com), simulando el flujo de compra con diferentes usuarios. Se incluye un [Casos de pruebas](https://docs.google.com/spreadsheets/d/1AHUPmJbamMjzV35YunvaABstV7SwRdkg/edit?usp=sharing&ouid=100517623038913693993&rtpof=true&sd=true), la implementación automatizada en Cypress y el registro de defectos en [Trello](https://trello.com/invite/b/67545f1337b952292f0bb8e3/ATTI24b8807d070ccb58962a561141e86e2e0646633B/swag-labs-qa-automatizacion-challenge),
+y este es el reporte de errores [Reporte de bugs](https://docs.google.com/document/d/1FOE358r_KKAoL6Mpg7squfy1zz5_yDVMIa36XfueKCM/edit?usp=sharing),
+y se incluye un [Plan de pruebas](https://docs.google.com/document/d/1JoF8YQR1293_XQF20L1UomUMiRa_jytryrOylAHz2Ts/edit?usp=sharing).
+
+## **Tecnologías Utilizadas**
+- **Cypress**: Framework de automatización de pruebas.
+- **JavaScript**: Lenguaje de programación para la creación de scripts de pruebas.
+- **Google Sheets**: Herramienta para la creación de plan de pruebas.
+- **Trello**: Plataforma de gestión de proyectos para el registro de defectos.
+- **Google Docs**: Herramienta para la creación de reporte de errores.
 
 Dentro de la carpeta reports hay un web html para visualizar, el video del reporte de errores de la automtizacion de la web de sauceDemo, como tambien en screenshots una foto.
 
